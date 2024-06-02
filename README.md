@@ -8,6 +8,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bransteek&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bransteek&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bransteek&layout=compact&theme=dark)
 
 
